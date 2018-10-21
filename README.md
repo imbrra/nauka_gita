@@ -8,3 +8,5 @@
 
 
   **druga zmiana**
+  
+  **trzecia zmiana w przegladarce**
